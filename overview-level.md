@@ -40,11 +40,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</td>
       <tr>
          <td>
             <ul class="grid-l">
-               <li class="key16">1633</li>
-               <li class="key1">6351</li>
+               <li class="key16">1620</li>
+               <li class="key1">6309</li>
                <li class="key4">83</li>
                <li class="key5">51</li>
-               <li class="key7">179</li>
+               <li class="key7">176</li>
                <li class="key12">1</li>
             </ul>
             <details>
